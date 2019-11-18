@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Index of multi-dimensional vectors in range based for loops.
--
+---
 Example on how to find the index of a vector inside a vector using range based for loops.
 Example of range based for loop.
 {% highlight cpp %}
